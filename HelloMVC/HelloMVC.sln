@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloMVC", "HelloMVC\HelloMVC.fsproj", "{1C1A9E1E-05FF-4B73-A1DA-4819161BF2AF}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloRazor", "HelloRazor\HelloRazor.fsproj", "{8875B44C-9CE9-461A-AE8A-AA140FF71C1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C1A9E1E-05FF-4B73-A1DA-4819161BF2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1A9E1E-05FF-4B73-A1DA-4819161BF2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1A9E1E-05FF-4B73-A1DA-4819161BF2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1A9E1E-05FF-4B73-A1DA-4819161BF2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8875B44C-9CE9-461A-AE8A-AA140FF71C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8875B44C-9CE9-461A-AE8A-AA140FF71C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8875B44C-9CE9-461A-AE8A-AA140FF71C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8875B44C-9CE9-461A-AE8A-AA140FF71C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E802F08-6736-413F-909D-488A5CECDF5E}
+	EndGlobalSection
+EndGlobal
