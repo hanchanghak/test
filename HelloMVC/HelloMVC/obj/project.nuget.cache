@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3KsyVoBsrULXTUOTj8cj6cFev4q1D8qkiExbnYCfPW4uV/t79OXaxBmyPfhTbuSZhdmQq3r+nmXNnVibDN/+oA==",
+  "dgSpecHash": "IVt7qKqL4bZnjICO4l4V8tVRpDFJSw1Xh8wBpa3YQE59hCQbb0l5andlgr05hCuCvC2gX72etHk05aLRx51JBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rika0\\source\\repos\\HelloMVC\\HelloMVC\\HelloMVC.fsproj",
+  "projectFilePath": "C:\\Users\\rika0\\OneDrive\\문서\\test\\HelloMVC\\HelloMVC\\HelloMVC.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\rika0\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
     "C:\\Users\\rika0\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.27\\microsoft.aspnetcore.mvc.razor.extensions.3.1.27.nupkg.sha512",
