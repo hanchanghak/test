@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rika0\\source\\repos\\HelloMVC\\HelloRazor\\HelloRazor.fsproj": {}
+    "C:\\Users\\rika0\\OneDrive\\문서\\test\\HelloMVC\\HelloRazor\\HelloRazor.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\rika0\\source\\repos\\HelloMVC\\HelloRazor\\HelloRazor.fsproj": {
+    "C:\\Users\\rika0\\OneDrive\\문서\\test\\HelloMVC\\HelloRazor\\HelloRazor.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rika0\\source\\repos\\HelloMVC\\HelloRazor\\HelloRazor.fsproj",
+        "projectUniqueName": "C:\\Users\\rika0\\OneDrive\\문서\\test\\HelloMVC\\HelloRazor\\HelloRazor.fsproj",
         "projectName": "HelloRazor",
-        "projectPath": "C:\\Users\\rika0\\source\\repos\\HelloMVC\\HelloRazor\\HelloRazor.fsproj",
+        "projectPath": "C:\\Users\\rika0\\OneDrive\\문서\\test\\HelloMVC\\HelloRazor\\HelloRazor.fsproj",
         "packagesPath": "C:\\Users\\rika0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rika0\\source\\repos\\HelloMVC\\HelloRazor\\obj\\",
+        "outputPath": "C:\\Users\\rika0\\OneDrive\\문서\\test\\HelloMVC\\HelloRazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
